@@ -67,6 +67,7 @@ const VarBooleano = true
 const VarNulo = null
 const VarMiSimbolo = ("parasiempre")
 const VarEnteroGrande = 123456789987654321123456789
+//const VarStr = "Hecho en editor de texto"
 
 // 9. A continuación, modifica los valores de las constantes
 //VarStr = "se puede?" //error
